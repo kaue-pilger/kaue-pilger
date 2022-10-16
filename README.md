@@ -1,8 +1,8 @@
 ## Oi! Me chamo Kauê e sou um programador em formação!
 <div align="center">
   <a href="https://github.com/Pilgerr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pilgerr&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pilgerr&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Pilgerr&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pilgerr&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
