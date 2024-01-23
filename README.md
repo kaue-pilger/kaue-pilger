@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=31D6D7&vCenter=true&width=600&lines=Prazer%2C+me+chamo+Kaue+Pilger!;Desenvolvedor+back-end+em+formação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=31D6D7&vCenter=true&width=600&lines=Prazer%2C+me+chamo+Kaue+Pilger!;Desenvolvedor+front-end)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/Pilgerr">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Pilgerr&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
