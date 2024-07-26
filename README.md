@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=31D6D7&vCenter=true&width=600&lines=Prazer%2C+me+chamo+Kaue+Pilger!;Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 
-👋🏻 Olá! Sou o Kaue, Programador Full Stack com foco em desenvolvimento web, e uma sólida experiência em suporte técnico e desenvolvimento de aplicações. 
+## Sobre mim
 
-🎓 Sou técnico em informática pelo Instituto Federal Sul-rio-grandense Campus Charqueadas, onde realizei meu ensino médio integrado ao técnico.
-
-👨🏻‍💻 Minha trajetória profissional é marcada por uma abordagem persistente e disciplinada em cada desafio enfrentado. Durante o período na Lexsis, tive uma atuação para ensinar o uso do ERP e solucionar problemas complexos via SQL. Como Full Stack freelancer há 3 anos, o desenvolvimento de aplicações sob demanda envolveu um esforço contínuo e criativo para garantir soluções robustas e eficientes tanto para o front quanto para o back-end, sempre com um forte foco na resolução de problemas e no aprimoramento das habilidades técnicas.
+- 🚀 Programador Full Stack com foco em desenvolvimento web.
+- 🎓 Técnico em Informática pelo Instituto Federal Sul-rio-grandense Campus Charqueadas.
+- 🌱 Aprendendo mais sobre `React.js`.
 
 
 <div align="center">
@@ -22,7 +22,6 @@
   <img align="center" alt="Kaue-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kaue-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Kaue-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
-  <img align="center" alt="Kaue-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div>
   
   ##
