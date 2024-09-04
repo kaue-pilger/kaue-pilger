@@ -11,7 +11,7 @@
 
 ## About
 
-_Specializing in innovative web and impactful brand aesthetics. Collaborating with companies to achieve exceptional results and drive growth._
+#### Specializing in innovative web and impactful brand aesthetics. Collaborating with companies to achieve exceptional results and drive growth.
 
 - 🚀 Full Stack Developer focused on Web Development.
 - 🎓 IT technician.
