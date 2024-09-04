@@ -14,6 +14,7 @@
 #### Specializing in innovative web and impactful brand aesthetics. Collaborating with companies to achieve exceptional results and drive growth.
 
 - 🚀 Full Stack Developer focused on Web Development.
+- 📍 Based in Germany.
 - 🎓 IT technician.
 - 🌱 Learning about `Typescript`, `React.js`, `Next.js`.
 
